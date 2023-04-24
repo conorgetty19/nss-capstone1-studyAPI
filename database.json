@@ -14,5 +14,77 @@
       "isAdmin": true,
       "id": 2
     }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "formatId": 1,
+      "title": "fake thing",
+      "image": "https://i.ibb.co/LJmL5rL/dog-com.png",
+      "url": "www.dog.com",
+      "description": "fake thing. fake thing. fdakew jsojiojsoefjsj fjasef f f f ds jfoj sf s df jsdfo  s se f s f sdf sf sd hfisdf sdf sd jf sdf sddf  sd fs df sddf sdd f iheasp're'  p'asp sp'spse hhiriheiro e r iehrisklfhie i ohesihrfseihrioeh",
+      "creatorId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "type": "Computer science, information and general works"
+    },
+    {
+      "id": 2,
+      "type": "Philosophy and psychology"
+    },
+    {
+      "id": 3,
+      "type": "Religion"
+    },
+    {
+      "id": 4,
+      "type": "Social sciences"
+    },
+    {
+      "id": 5,
+      "type": "Language"
+    },
+    {
+      "id": 6,
+      "type": "Science"
+    },
+    {
+      "id": 7,
+      "type": "Technology"
+    },
+    {
+      "id": 8,
+      "type": "Arts and recreation"
+    },
+    {
+      "id": 9,
+      "type": "Literature"
+    },
+    {
+      "id": 10,
+      "type": "History and geography"
+    }
+  ],
+  "formats": [
+    {
+      "id": 1,
+      "type": "video"
+    },
+    {
+      "id": 2,
+      "type": "audio"
+    },
+    {
+      "id": 3,
+      "type": "text"
+    },
+    {
+      "id": 4,
+      "type": "collection"
+    }
   ]
 }
