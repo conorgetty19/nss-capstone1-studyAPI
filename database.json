@@ -1,11 +1,18 @@
 {
-    "users": [
-        {
-            "id":1,
-            "username": "fake",
-            "password": "fake",
-            "email": "fake@fake.fk",
-            "isAdmin": true
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "username": "fake",
+      "password": "fake",
+      "email": "fake@fake.fk",
+      "isAdmin": true
+    },
+    {
+      "username": "fake2",
+      "password": "fake2",
+      "email": "fake2@fake.fk",
+      "isAdmin": true,
+      "id": 2
+    }
+  ]
 }
