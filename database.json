@@ -32,17 +32,17 @@
       "title": "fake title",
       "image": "https://i.ibb.co/LJmL5rL/dog-com.png",
       "url": "https://www.fake.com",
-      "description": "Fake ewjoipwjke[fjow wejt wejkr ewrjk.",
+      "description": "has format video. Does the description reflect this?",
       "creatorId": 3,
       "id": 2
     },
     {
       "categoryId": 1,
       "formatId": 3,
-      "title": "fake title",
+      "title": "has creator 2",
       "image": "https://i.ibb.co/LJmL5rL/dog-com.png",
       "url": "https://www.fake.com",
-      "description": "Fake ewjoipwjke[fjow wejt wejkr ewrjk.",
+      "description": "Fake ewjoipwjke[fjow wejt wejkr ewrjk. testing my uploads",
       "creatorId": 2,
       "id": 3
     },
@@ -145,6 +145,16 @@
       "description": "faek description. added.",
       "creatorId": 1,
       "id": 12
+    },
+    {
+      "categoryId": 2,
+      "formatId": 1,
+      "title": "has Creator 2",
+      "image": "https://i.ibb.co/LJmL5rL/dog-com.png",
+      "url": "https://www.facebook.com",
+      "description": "faek description. added. testing uploads",
+      "creatorId": 2,
+      "id": 13
     }
   ],
   "categories": [
