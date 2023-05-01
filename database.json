@@ -27,6 +27,20 @@
       "email": "fake4@fake.fk",
       "isAdmin": false,
       "id": 4
+    },
+    {
+      "username": "fakefake",
+      "password": "fakefake",
+      "email": "fakefake@fakefake.com",
+      "isAdmin": true,
+      "id": 5
+    },
+    {
+      "username": "fakefakefakefake",
+      "password": "4fakes",
+      "email": "4fakes@fake.com",
+      "isAdmin": true,
+      "id": 6
     }
   ],
   "resources": [
