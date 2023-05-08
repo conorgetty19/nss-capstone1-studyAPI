@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "username": "fake",
-      "password": "fake",
-      "email": "fake@fake.fk",
+      "username": "conorgetty",
+      "password": "conorgetty",
+      "email": "conorgetty@gmail.com",
       "isAdmin": true
     },
     {
-      "username": "notAdmin",
+      "username": "seangetty",
       "password": "fake2",
       "email": "fake2@fake.fk",
       "isAdmin": false,
@@ -22,7 +22,7 @@
       "title": "Eloquent JavaScript (Third Edition)",
       "image": "https://eloquentjavascript.net/img/cover.jpg",
       "url": "https://eloquentjavascript.net/",
-      "description": "Book about JavaScript Programming",
+      "description": "Book about JavaScript Programming. ",
       "creatorId": 1,
       "id": 1
     },
@@ -262,4 +262,3 @@
     }
   ]
 }
-
